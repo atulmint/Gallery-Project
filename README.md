@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. to
+The React Compiler is not enabled on this template because of its impact on dev & build performances. 
